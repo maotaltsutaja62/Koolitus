@@ -1,6 +1,6 @@
 elu = 9
 sisestus = input ("Sisesta sõna")
-sisestuslist =list(sisestus)
+sisestuslist = list(sisestus)
 pikkus = len(sisestuslist)
 valmis = []
 for x in range(pikkus):
